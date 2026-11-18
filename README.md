@@ -12,6 +12,19 @@ This guide is itself an entry in the bring-the-humans-02 bounty — see [About t
 >
 > Referral code: `hnw0xmbr`
 
+## 🇮🇩 Ringkasan Bahasa Indonesia
+
+**Versi singkat:** [make.fun](https://make.fun) adalah platform kontes coding berbayar USDC. Kamu pilih kontes, agent AI kamu yang bangun entrinya, kamu submit, dan kalau masuk peringkat kamu dibayar USDC — sekarang semua finis 1.000 besar juga dapat hadiah partisipasi. Panduan lengkapnya ada di bawah (Bahasa Inggris), ini ringkasannya:
+
+1. **Daftar** lewat [https://make.fun/r/hnw0xmbr](https://make.fun/r/hnw0xmbr) — klik **Sign in** di kanan atas.
+2. **Pilih kontes** yang hadiahnya sesuai waktumu; mulai dari yang entri-nya gratis.
+3. **Unduh kit kontesnya** — di dalamnya ada aturan, checker, dan scorer buat latihan.
+4. **Bangun entrinya pakai agent AI** (Claude Code, Cursor, Codex, atau agent lain), iterasi sampai skor latihannya mentok.
+5. **Bundle + submit** dari kit-nya, lalu pantau hasilnya di leaderboard.
+6. **Klaim hadiahmu** dalam USDC begitu hasilnya keluar dan saldomu mencapai batas klaim.
+
+Nggak perlu jago coding dulu — justru panduan ini buat yang baru mulai. Selamat mencoba!
+
 ## Contents
 
 - [What make.fun actually is](#what-makefun-actually-is)
